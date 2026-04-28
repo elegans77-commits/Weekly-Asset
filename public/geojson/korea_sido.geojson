@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "서울특별시" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[126.85,37.45],[127.15,37.45],[127.15,37.7],[126.85,37.7],[126.85,37.45]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "경기도" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[126.5,37.0],[127.7,37.0],[127.7,38.2],[126.5,38.2],[126.5,37.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "인천광역시" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[126.3,37.3],[126.8,37.3],[126.8,37.75],[126.3,37.75],[126.3,37.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "부산광역시" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[128.8,35.0],[129.4,35.0],[129.4,35.4],[128.8,35.4],[128.8,35.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "대구광역시" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[128.3,35.6],[128.8,35.6],[128.8,36.05],[128.3,36.05],[128.3,35.6]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "제주특별자치도" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[126.1,33.15],[126.9,33.15],[126.9,33.6],[126.1,33.6],[126.1,33.15]]]
+      }
+    }
+  ]
+}
