@@ -1,0 +1,27 @@
+[
+  {"week_date":"2026-04-13","region_level":"sido","sido":"서울","sigungu":"","region_name":"서울","sale_change_rate":0.12,"jeonse_change_rate":0.08,"index_value":101.3},
+  {"week_date":"2026-04-13","region_level":"sido","sido":"경기","sigungu":"","region_name":"경기","sale_change_rate":0.09,"jeonse_change_rate":0.06,"index_value":100.8},
+  {"week_date":"2026-04-13","region_level":"sido","sido":"인천","sigungu":"","region_name":"인천","sale_change_rate":0.05,"jeonse_change_rate":0.02,"index_value":100.5},
+  {"week_date":"2026-04-13","region_level":"sido","sido":"부산","sigungu":"","region_name":"부산","sale_change_rate":-0.04,"jeonse_change_rate":-0.02,"index_value":99.8},
+  {"week_date":"2026-04-13","region_level":"sido","sido":"대구","sigungu":"","region_name":"대구","sale_change_rate":-0.11,"jeonse_change_rate":-0.07,"index_value":99.2},
+  {"week_date":"2026-04-13","region_level":"sido","sido":"제주","sigungu":"","region_name":"제주","sale_change_rate":-0.21,"jeonse_change_rate":-0.13,"index_value":98.7},
+
+  {"week_date":"2026-04-13","region_level":"sigungu","sido":"서울","sigungu":"강남구","region_name":"서울 강남구","sale_change_rate":0.28,"jeonse_change_rate":0.15,"index_value":102.1},
+  {"week_date":"2026-04-13","region_level":"sigungu","sido":"서울","sigungu":"서초구","region_name":"서울 서초구","sale_change_rate":0.21,"jeonse_change_rate":0.14,"index_value":101.9},
+  {"week_date":"2026-04-13","region_level":"sigungu","sido":"서울","sigungu":"송파구","region_name":"서울 송파구","sale_change_rate":0.13,"jeonse_change_rate":0.08,"index_value":101.4},
+  {"week_date":"2026-04-13","region_level":"sigungu","sido":"서울","sigungu":"마포구","region_name":"서울 마포구","sale_change_rate":0.02,"jeonse_change_rate":0.01,"index_value":100.8},
+  {"week_date":"2026-04-13","region_level":"sigungu","sido":"서울","sigungu":"종로구","region_name":"서울 종로구","sale_change_rate":-0.05,"jeonse_change_rate":-0.02,"index_value":99.9},
+
+  {"week_date":"2026-04-06","region_level":"sido","sido":"서울","sigungu":"","region_name":"서울","sale_change_rate":0.10,"jeonse_change_rate":0.06,"index_value":101.1},
+  {"week_date":"2026-04-06","region_level":"sido","sido":"경기","sigungu":"","region_name":"경기","sale_change_rate":0.07,"jeonse_change_rate":0.04,"index_value":100.6},
+  {"week_date":"2026-04-06","region_level":"sido","sido":"인천","sigungu":"","region_name":"인천","sale_change_rate":0.03,"jeonse_change_rate":0.01,"index_value":100.4},
+  {"week_date":"2026-04-06","region_level":"sido","sido":"부산","sigungu":"","region_name":"부산","sale_change_rate":-0.03,"jeonse_change_rate":-0.01,"index_value":99.9},
+  {"week_date":"2026-04-06","region_level":"sido","sido":"대구","sigungu":"","region_name":"대구","sale_change_rate":-0.09,"jeonse_change_rate":-0.05,"index_value":99.3},
+  {"week_date":"2026-04-06","region_level":"sido","sido":"제주","sigungu":"","region_name":"제주","sale_change_rate":-0.18,"jeonse_change_rate":-0.10,"index_value":98.9},
+
+  {"week_date":"2026-04-06","region_level":"sigungu","sido":"서울","sigungu":"강남구","region_name":"서울 강남구","sale_change_rate":0.24,"jeonse_change_rate":0.13,"index_value":101.8},
+  {"week_date":"2026-04-06","region_level":"sigungu","sido":"서울","sigungu":"서초구","region_name":"서울 서초구","sale_change_rate":0.19,"jeonse_change_rate":0.11,"index_value":101.7},
+  {"week_date":"2026-04-06","region_level":"sigungu","sido":"서울","sigungu":"송파구","region_name":"서울 송파구","sale_change_rate":0.11,"jeonse_change_rate":0.06,"index_value":101.2},
+  {"week_date":"2026-04-06","region_level":"sigungu","sido":"서울","sigungu":"마포구","region_name":"서울 마포구","sale_change_rate":0.01,"jeonse_change_rate":0.01,"index_value":100.7},
+  {"week_date":"2026-04-06","region_level":"sigungu","sido":"서울","sigungu":"종로구","region_name":"서울 종로구","sale_change_rate":-0.03,"jeonse_change_rate":-0.01,"index_value":100.0}
+]
