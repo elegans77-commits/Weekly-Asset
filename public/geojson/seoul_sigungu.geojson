@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "강남구" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[127.00,37.47],[127.09,37.47],[127.09,37.53],[127.00,37.53],[127.00,37.47]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "서초구" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[126.96,37.45],[127.04,37.45],[127.04,37.51],[126.96,37.51],[126.96,37.45]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "송파구" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[127.08,37.49],[127.15,37.49],[127.15,37.56],[127.08,37.56],[127.08,37.49]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "마포구" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[126.88,37.54],[126.95,37.54],[126.95,37.58],[126.88,37.58],[126.88,37.54]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "종로구" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[126.97,37.56],[127.01,37.56],[127.01,37.60],[126.97,37.60],[126.97,37.56]]]
+      }
+    }
+  ]
+}
